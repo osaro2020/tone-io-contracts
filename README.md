@@ -1,4 +1,4 @@
-# tone.io — on-chain contracts
+# tone.io contracts
 
 Solidity contracts for the tone.io content provenance protocol:
 register content on-chain, link derivatives, and verify provenance.
